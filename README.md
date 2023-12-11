@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HHB8KWFNY067FKWPQ6TV35X9
-  version: v2.0
----
-
 # Docker Compose
 
 This is a step-by-step guide to running an application using Docker Compose. Make sure you have Docker and Docker Compose installed on your machine before getting started.
